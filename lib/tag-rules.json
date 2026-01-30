@@ -1,0 +1,66 @@
+[
+  { "keywords": ["object detection", "detr", "yolo", "rcnn", "faster rcnn", "ssd", "retinanet", "detection"], "tag": "Object Detection" },
+  { "keywords": ["segmentation", "semantic segmentation", "instance segmentation", "panoptic", "mask rcnn", "sam"], "tag": "Segmentation" },
+  { "keywords": ["event camera", "dvs", "event-based", "neuromorphic", "dynamic vision"], "tag": "Event Camera" },
+  { "keywords": ["image classification", "resnet", "efficientnet", "convnext"], "tag": "Image Classification" },
+  { "keywords": ["3d vision", "point cloud", "depth estimation", "stereo", "nerf", "3d reconstruction"], "tag": "3D Vision" },
+  { "keywords": ["ocr", "text detection", "text recognition", "scene text"], "tag": "OCR" },
+  { "keywords": ["face recognition", "face detection", "facial"], "tag": "Face Recognition" },
+  { "keywords": ["pose estimation", "keypoint", "skeleton", "human pose"], "tag": "Pose Estimation" },
+  { "keywords": ["tracking", "mot", "object tracking", "video tracking"], "tag": "Tracking" },
+  { "keywords": ["action recognition", "video understanding", "temporal"], "tag": "Video Understanding" },
+
+  { "keywords": ["transformer", "attention", "vit", "swin", "deit", "self-attention"], "tag": "Transformer" },
+  { "keywords": ["diffusion", "ddpm", "stable diffusion", "latent diffusion", "score-based"], "tag": "Diffusion Model" },
+  { "keywords": ["gan", "generative adversarial", "stylegan", "cyclegan", "pix2pix"], "tag": "GAN" },
+  { "keywords": ["autoencoder", "vae", "variational"], "tag": "Autoencoder" },
+  { "keywords": ["cnn", "convolutional", "convolution"], "tag": "CNN" },
+  { "keywords": ["rnn", "lstm", "gru", "recurrent"], "tag": "RNN" },
+  { "keywords": ["graph neural", "gnn", "gcn", "graph convolution"], "tag": "GNN" },
+
+  { "keywords": ["llm", "large language model", "gpt", "chatgpt", "llama", "language model"], "tag": "LLM" },
+  { "keywords": ["vlm", "vision-language", "vision language", "clip", "multimodal", "blip", "flamingo"], "tag": "Vision-Language" },
+  { "keywords": ["nlp", "natural language", "text processing", "sentiment", "ner", "named entity"], "tag": "NLP" },
+  { "keywords": ["embedding", "word2vec", "bert", "sentence embedding"], "tag": "Embedding" },
+
+  { "keywords": ["semi-supervised", "pseudo-label", "pseudo label", "self-training", "mean teacher"], "tag": "Semi-Supervised Learning" },
+  { "keywords": ["self-supervised", "contrastive", "simclr", "moco", "byol", "pretext"], "tag": "Self-Supervised Learning" },
+  { "keywords": ["reinforcement learning", "rl", "ppo", "dqn", "reward", "policy"], "tag": "Reinforcement Learning" },
+  { "keywords": ["transfer learning", "fine-tuning", "pretrained", "domain adaptation"], "tag": "Transfer Learning" },
+  { "keywords": ["few-shot", "zero-shot", "meta-learning", "n-shot"], "tag": "Few-Shot Learning" },
+  { "keywords": ["federated", "distributed learning", "privacy"], "tag": "Federated Learning" },
+  { "keywords": ["knowledge distillation", "teacher-student", "model compression"], "tag": "Knowledge Distillation" },
+  { "keywords": ["active learning", "uncertainty sampling"], "tag": "Active Learning" },
+
+  { "keywords": ["optimization", "adam", "sgd", "learning rate", "scheduler", "gradient"], "tag": "Optimization" },
+  { "keywords": ["data augmentation", "augment", "mixup", "cutout", "randaugment"], "tag": "Data Augmentation" },
+  { "keywords": ["loss function", "focal loss", "cross entropy", "contrastive loss"], "tag": "Loss Function" },
+  { "keywords": ["regularization", "dropout", "batch norm", "layer norm"], "tag": "Regularization" },
+
+  { "keywords": ["autonomous driving", "self-driving", "vehicle", "lidar", "adas"], "tag": "Autonomous Driving" },
+  { "keywords": ["medical", "healthcare", "diagnosis", "radiology", "pathology", "ct", "mri"], "tag": "Medical AI" },
+  { "keywords": ["robotics", "robot", "manipulation", "navigation"], "tag": "Robotics" },
+  { "keywords": ["agriculture", "crop", "farming", "plant"], "tag": "Agriculture AI" },
+  { "keywords": ["npu", "inference", "edge", "hardware acceleration", "tpu"], "tag": "Edge AI" },
+  { "keywords": ["synthetic data", "data generation", "simulation"], "tag": "Synthetic Data" },
+  { "keywords": ["finance", "financial", "stock", "trading"], "tag": "Finance" },
+  { "keywords": ["class imbalance", "imbalanced", "oversampling", "undersampling"], "tag": "Class Imbalance" },
+
+  { "keywords": ["pytorch", "torch"], "tag": "PyTorch" },
+  { "keywords": ["tensorflow", "keras", "tf"], "tag": "TensorFlow" },
+  { "keywords": ["huggingface", "transformers library"], "tag": "HuggingFace" },
+  { "keywords": ["onnx", "tensorrt", "deployment", "inference optimization"], "tag": "Model Deployment" },
+
+  { "keywords": ["paper review", "논문 리뷰", "abstract", "method", "experiment", "related work"], "tag": "Paper Review" },
+  { "keywords": ["tutorial", "튜토리얼", "guide", "how to", "step by step"], "tag": "Tutorial" },
+  { "keywords": ["implementation", "구현", "code", "from scratch"], "tag": "Implementation" },
+
+  { "keywords": ["gdg", "gdgoc", "google developer"], "tag": "GDG" },
+  { "keywords": ["hackathon", "해커톤", "competition"], "tag": "Hackathon" },
+  { "keywords": ["kaggle", "dacon", "ai competition"], "tag": "Competition" },
+  { "keywords": ["conference", "cvpr", "iccv", "eccv", "neurips", "icml", "iclr", "aaai", "kcc", "ksc", "ack"], "tag": "Conference" },
+
+  { "keywords": ["deep learning", "neural network", "ai", "artificial intelligence", "딥러닝"], "tag": "Deep Learning" },
+  { "keywords": ["computer vision", "image", "visual", "cv", "컴퓨터 비전"], "tag": "Computer Vision" },
+  { "keywords": ["machine learning", "ml", "머신러닝"], "tag": "Machine Learning" }
+]
